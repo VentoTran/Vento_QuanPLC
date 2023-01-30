@@ -1,0 +1,27 @@
+--cpu=Cortex-M4.fp.sp
+"speedcontrolpid\startup_stm32f401xc.o"
+"speedcontrolpid\main.o"
+"speedcontrolpid\gpio.o"
+"speedcontrolpid\tim.o"
+"speedcontrolpid\stm32f4xx_it.o"
+"speedcontrolpid\stm32f4xx_hal_msp.o"
+"speedcontrolpid\stm32f4xx_hal_tim.o"
+"speedcontrolpid\stm32f4xx_hal_tim_ex.o"
+"speedcontrolpid\stm32f4xx_hal_rcc.o"
+"speedcontrolpid\stm32f4xx_hal_rcc_ex.o"
+"speedcontrolpid\stm32f4xx_hal_flash.o"
+"speedcontrolpid\stm32f4xx_hal_flash_ex.o"
+"speedcontrolpid\stm32f4xx_hal_flash_ramfunc.o"
+"speedcontrolpid\stm32f4xx_hal_gpio.o"
+"speedcontrolpid\stm32f4xx_hal_dma_ex.o"
+"speedcontrolpid\stm32f4xx_hal_dma.o"
+"speedcontrolpid\stm32f4xx_hal_pwr.o"
+"speedcontrolpid\stm32f4xx_hal_pwr_ex.o"
+"speedcontrolpid\stm32f4xx_hal_cortex.o"
+"speedcontrolpid\stm32f4xx_hal.o"
+"speedcontrolpid\stm32f4xx_hal_exti.o"
+"speedcontrolpid\system_stm32f4xx.o"
+--strict --scatter "SpeedControlPID\SpeedControlPID.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "SpeedControlPID.map" -o SpeedControlPID\SpeedControlPID.axf

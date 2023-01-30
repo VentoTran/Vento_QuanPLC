@@ -1,0 +1,20 @@
+
+
+
+*Project Logs for SpeedControlPID/
+*Project Outputs for SpeedControlPID/
+
+*Project Logs for PI_Speed_Control/
+*Project Outputs for PI_Speed_Control/
+
+*.log
+*build/
+*.vscode/
+*.rar
+*.Dat
+
+*.SchDocPreview
+*.LOG
+*History/
+
+*__Previews/

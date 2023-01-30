@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"btl_vdk\startup_stm32f103xb.o"
+"btl_vdk\userappfcn.o"
+"btl_vdk\main.o"
+"btl_vdk\stm32f1xx_it.o"
+"btl_vdk\stm32f1xx_hal_msp.o"
+"btl_vdk\stm32f1xx_hal_gpio_ex.o"
+"btl_vdk\stm32f1xx_hal_adc.o"
+"btl_vdk\stm32f1xx_hal_adc_ex.o"
+"btl_vdk\stm32f1xx_hal.o"
+"btl_vdk\stm32f1xx_hal_rcc.o"
+"btl_vdk\stm32f1xx_hal_rcc_ex.o"
+"btl_vdk\stm32f1xx_hal_gpio.o"
+"btl_vdk\stm32f1xx_hal_dma.o"
+"btl_vdk\stm32f1xx_hal_cortex.o"
+"btl_vdk\stm32f1xx_hal_pwr.o"
+"btl_vdk\stm32f1xx_hal_flash.o"
+"btl_vdk\stm32f1xx_hal_flash_ex.o"
+"btl_vdk\stm32f1xx_hal_exti.o"
+"btl_vdk\stm32f1xx_hal_tim.o"
+"btl_vdk\stm32f1xx_hal_tim_ex.o"
+"btl_vdk\stm32f1xx_hal_uart.o"
+"btl_vdk\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "BTL_VDK\BTL_VDK.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "BTL_VDK.map" -o BTL_VDK\BTL_VDK.axf
