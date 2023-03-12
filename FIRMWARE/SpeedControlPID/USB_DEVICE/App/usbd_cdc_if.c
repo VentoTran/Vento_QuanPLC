@@ -112,7 +112,7 @@ extern USBD_HandleTypeDef hUsbDeviceFS;
 
 /* USER CODE BEGIN EXPORTED_VARIABLES */
 
-extern char USB_RX_BUFFER[100];
+extern uint8_t USB_RX_BUFFER[100];
 extern bool isNewUSBPacket;
 extern bool isUSBFree;
 

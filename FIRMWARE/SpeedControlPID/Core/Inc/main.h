@@ -77,12 +77,6 @@ void Error_Handler(void);
 #define MOTOR_DIR1_GPIO_Port GPIOB
 #define MOTOR_DIR2_Pin GPIO_PIN_10
 #define MOTOR_DIR2_GPIO_Port GPIOB
-#define BUTTON1_Pin GPIO_PIN_8
-#define BUTTON1_GPIO_Port GPIOB
-#define BUTTON1_EXTI_IRQn EXTI9_5_IRQn
-#define BUTTON2_Pin GPIO_PIN_9
-#define BUTTON2_GPIO_Port GPIOB
-#define BUTTON2_EXTI_IRQn EXTI9_5_IRQn
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */

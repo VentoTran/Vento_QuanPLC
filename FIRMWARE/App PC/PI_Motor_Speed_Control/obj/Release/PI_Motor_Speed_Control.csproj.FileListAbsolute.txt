@@ -1,0 +1,10 @@
+D:\GitHub\Vento_QuanPLC\FIRMWARE\App PC\PI_Motor_Speed_Control\bin\Release\PI_Motor_Speed_Control.exe.config
+D:\GitHub\Vento_QuanPLC\FIRMWARE\App PC\PI_Motor_Speed_Control\bin\Release\PI_Motor_Speed_Control.exe
+D:\GitHub\Vento_QuanPLC\FIRMWARE\App PC\PI_Motor_Speed_Control\bin\Release\PI_Motor_Speed_Control.pdb
+D:\GitHub\Vento_QuanPLC\FIRMWARE\App PC\PI_Motor_Speed_Control\obj\Release\PI_Motor_Speed_Control.csproj.AssemblyReference.cache
+D:\GitHub\Vento_QuanPLC\FIRMWARE\App PC\PI_Motor_Speed_Control\obj\Release\PI_Motor_Speed_Control.Form1.resources
+D:\GitHub\Vento_QuanPLC\FIRMWARE\App PC\PI_Motor_Speed_Control\obj\Release\PI_Motor_Speed_Control.Properties.Resources.resources
+D:\GitHub\Vento_QuanPLC\FIRMWARE\App PC\PI_Motor_Speed_Control\obj\Release\PI_Motor_Speed_Control.csproj.GenerateResource.cache
+D:\GitHub\Vento_QuanPLC\FIRMWARE\App PC\PI_Motor_Speed_Control\obj\Release\PI_Motor_Speed_Control.csproj.CoreCompileInputs.cache
+D:\GitHub\Vento_QuanPLC\FIRMWARE\App PC\PI_Motor_Speed_Control\obj\Release\PI_Motor_Speed_Control.exe
+D:\GitHub\Vento_QuanPLC\FIRMWARE\App PC\PI_Motor_Speed_Control\obj\Release\PI_Motor_Speed_Control.pdb

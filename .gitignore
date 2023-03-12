@@ -7,6 +7,8 @@
 *Project Logs for PI_Speed_Control/
 *Project Outputs for PI_Speed_Control/
 
+*Project Backups/
+
 *.log
 *build/
 *.vscode/
